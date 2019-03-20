@@ -4,4 +4,13 @@
 # Personal Websites
 / https://rongyi.blog/about 302
 /blog https://rongyi.blog/blog 302
-/email mailto:i@rongyi.io 302
+/code https://code.rongyi.io 302
+
+# Social Networks
+/gh https://github.com/LER0ever 302
+/fb https://www.facebook.com/LER0ever 302
+/cmx https://cmx.im/LER0ever 302
+/tw https://twitter.com/LER0ever 302
+
+
+# Make a PR to add new ones here
