@@ -2,9 +2,7 @@
 This is my personal URL shortener built entirely on top of Netlify redirects.
 
 ## Current URLs
-1. `/` --> `https://rongyi.blog/about`
-2. `/blog` --> `https://rongyi.blog/blog`
-
+See the [`_redirects`](/_redirects) file for shortened URLs.
 
 ## Submit a new URL
 Just open a pull request on Github, making the changes you want to `_redirects` file.
