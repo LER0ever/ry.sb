@@ -1,4 +1,4 @@
-# ry.sb URL shortener
+# [ry.sb](https://ry.sb) URL shortener
 This is my personal URL shortener built entirely on top of Netlify redirects.
 
 ## Current URLs
