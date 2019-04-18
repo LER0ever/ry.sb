@@ -16,8 +16,8 @@
 /tw https://twitter.com/LER0ever 302
 
 # SourceGraph Code Reader
-/srcgraph-go https://sourcegraph.com/github.com/golang/go/-/tree/src/go 302
-/srcgraph-lumos https://sourcegraph.com/github.com/LER0ever/Lumos 302
+/sg/go https://sourcegraph.com/github.com/golang/go/-/tree/src/go 302
+/sg/lumos https://sourcegraph.com/github.com/LER0ever/Lumos 302
 
 # Lumos
 /lu https://lumos.dev 302
