@@ -16,7 +16,7 @@
 /tw https://twitter.com/LER0ever 302
 
 # SourceGraph Code Reader
-/srcgraph-go https://sourcegraph.com/github.com/golang/go 302
+/srcgraph-go https://sourcegraph.com/github.com/golang/go/-/tree/src/go 302
 /srcgraph-lumos https://sourcegraph.com/github.com/LER0ever/Lumos 302
 
 # Notion Links
