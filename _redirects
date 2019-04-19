@@ -23,6 +23,7 @@
 /sg/go https://sourcegraph.com/github.com/golang/go/-/tree/src/go 302
 /sg/lumos https://sourcegraph.com/github.com/LER0ever/Lumos 302
 /sg/rust https://sourcegraph.com/github.com/rust-lang/rust 302
+/sg/dyninst https://sourcegraph.com/github.com/dyninst/dyninst 302
 
 # Lumos
 /lu https://lumos.dev 302
