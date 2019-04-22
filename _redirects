@@ -24,6 +24,10 @@
 /sg/lumos https://sourcegraph.com/github.com/LER0ever/Lumos 302
 /sg/rust https://sourcegraph.com/github.com/rust-lang/rust 302
 /sg/dyninst https://sourcegraph.com/github.com/dyninst/dyninst 302
+/sg/fo https://sourcegraph.com/github.com/albrow/fo 302
+/sg/gi https://sourcegraph.com/github.com/gijit/gi 302
+/sg/gopherjs https://sourcegraph.com/github.com/gopherjs/gopherjs 302
+/sg/jennifer https://sourcegraph.com/github.com/dave/jennifer 302
 
 # Lumos
 /lu https://lumos.dev 302
