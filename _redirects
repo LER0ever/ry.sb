@@ -2,7 +2,7 @@
 # Netlify Redirects manifest
 
 # Personal Websites
-/ https://rongyi.blog/about 302
+/ https://github.com/LER0ever/ry.sb 302
 /blog https://rongyi.blog/blog 302
 /code https://code.rongyi.io 302
 
