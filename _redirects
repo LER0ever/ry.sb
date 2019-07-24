@@ -84,6 +84,9 @@
 /ref/fi https://g.co/fi/r/M24D9E 302
 /ref/siteground https://www.siteground.com/?referrer_id=8056994 302
 
+# Jump
+/j/* https://:splat 302
+
 # All the others
 /smart-questions-cn https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md 302
 /smart-questions http://www.catb.org/~esr/faqs/smart-questions.html 302
