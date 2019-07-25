@@ -42,6 +42,9 @@
 /youtube https://www.youtube.com/channel/UCCGyVP_ZZtikdaVUlI-Mrxg 302
 /yt https://www.youtube.com/channel/UCCGyVP_ZZtikdaVUlI-Mrxg 302
 
+# Blog posts
+/p/190725 https://rongyi.io/2019/07/25/dc-dimming-what-and-how/ 302
+
 # SourceGraph Code Reader
 /sg/go https://sourcegraph.com/github.com/golang/go/-/tree/src/go 302
 /sg/lumos https://sourcegraph.com/github.com/LER0ever/Lumos 302
