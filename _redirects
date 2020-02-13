@@ -65,6 +65,7 @@
 /sg/byteps https://sourcegraph.com/github.com/bytedance/byteps 302
 /sg/tf https://sourcegraph.com/github.com/tensorflow/tensorflow 302
 /sg/pipedream https://sourcegraph.com/github.com/msr-fiddle/pipedream 302
+/sg/zig https://sourcegraph.com/github.com/ziglang/zig 302
 
 # Lumos
 /lu https://lumos.dev 302
