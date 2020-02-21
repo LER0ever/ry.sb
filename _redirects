@@ -87,6 +87,9 @@
 /cu/PX1G https://app.clickup.com/1250054/v/f/1769133 302
 /cut/* https://app.clickup.com/t/:splat 302
 
+# TensorFlow Documentation
+/tf/xla-op* https://www.tensorflow.org/xla/operation_semantics:splat 302
+
 # Google Docs / Drives Links
 /resume-en https://drive.google.com/file/d/1dVdu134L2qHpPhRwW0kO2GM_EpFX1_9-/view?usp=sharing 302
 /resume-zh https://drive.google.com/file/d/1qXasNNVuQopuAsbRO6cWGGZNVpX1ypJ2/view?usp=sharing 302
