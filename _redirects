@@ -53,7 +53,7 @@
 /p/191020 https://rongyi.io/2019/10/20/split-array-sum-1/ 302
 
 # Drafts site
-/ds/about https://drafts.rongyi.io/12971/ 302
+/ds/about https://drafts.rongyi.io/about 302
 /ds/* https://drafts.rongyi.io/:splat 302
 
 # SourceGraph Code Reader
