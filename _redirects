@@ -126,6 +126,10 @@
 /ali/rydoc/* https://yuque.alibaba-inc.com/rongyi.ry/rongyi.io/:splat 302
 /yuque/* https://yuque.alibaba-inc.com/rongyi.ry/rongyi.io/:splat 302
 
+# Zhihu
+/zhi/:qid/:aid https://www.zhihu.com/question/:qid/answer/:aid 302
+/zhzl/* https://zhuanlan.zhihu.com/p/:splat 302
+
 # Jump
 /j/* https://:splat 302
 
