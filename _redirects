@@ -106,6 +106,7 @@
 # Lab @ rongyi.io Links
 /lab/n/* https://lab.rongyi.io/T/:splat/-/issues/new 302
 /lab/new/* https://lab.rongyi.io/T/:splat/-/issues/new 302
+/lab/list https://lab.rongyi.io/groups/T/-/issues 302
 /lab/new-milestone https://lab.rongyi.io/groups/T/-/milestones/new 302
 /lab/T https://lab.rongyi.io/T 302
 /lab/todo https://lab.rongyi.io/dashboard/todos 302
