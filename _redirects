@@ -121,6 +121,9 @@
 # Arxiv
 /arxiv/* https://arxiv.org/pdf/:splat.pdf 302
 
+# Wolfram Alpha
+/wfra/* https://www.wolframalpha.com/input/?i=:splat 302
+
 # Google Docs / Drives Links
 /resume-en https://drive.google.com/file/d/1dVdu134L2qHpPhRwW0kO2GM_EpFX1_9-/view?usp=sharing 302
 /resume-zh https://drive.google.com/file/d/1qXasNNVuQopuAsbRO6cWGGZNVpX1ypJ2/view?usp=sharing 302
