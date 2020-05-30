@@ -111,6 +111,7 @@
 /lab/T https://lab.rongyi.io/T 302
 /lab/todo https://lab.rongyi.io/dashboard/todos 302
 /T/:level1/:level2/:id https://lab.rongyi.io/T/:level1/:level2/-/issues/:id 302
+/T/:level1/:level2 https://lab.rongyi.io/T/:level1/:level2/-/issues 302
 
 # Clickup Links
 /cut/* https://app.clickup.com/t/:splat 302
