@@ -168,8 +168,9 @@
 # Jump
 /j/* https://:splat 302
 
-# Internet Wayback
+# Internet Utils
 /wayback/* https://web.archive.org/web/*/:splat 302
+/builtwith/* https://builtwith.com/:splat 302
 
 # All the others
 /smart-questions-cn https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md 302
