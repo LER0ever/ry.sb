@@ -113,6 +113,7 @@
 /lab/T https://lab.rongyi.io/T 302
 /lab/todo https://lab.rongyi.io/dashboard/todos 302
 /T/board https://lab.rongyi.io/groups/T/-/boards/1 302
+/T/milestones https://lab.rongyi.io/groups/T/-/milestones 302
 /T/:level1/:level2/:id https://lab.rongyi.io/T/:level1/:level2/-/issues/:id 302
 /T/:level1/:level2 https://lab.rongyi.io/T/:level1/:level2/-/issues 302
 
