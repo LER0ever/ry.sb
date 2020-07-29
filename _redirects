@@ -160,6 +160,7 @@
 # Alibaba Internal
 /ali/rydoc/* https://yuque.alibaba-inc.com/rongyi.ry/rongyi.io/:splat 302
 /ali/loa https://vacation.alibaba-inc.com/attendance/apply.htm 302
+/ali/bye https://yuque.antfin-inc.com/docs/share/2fab7bc4-768f-4baf-9930-2e1c9406aeb4 302
 /yuque/* https://yuque.alibaba-inc.com/rongyi.ry/rongyi.io/:splat 302
 
 # Zhihu
