@@ -106,18 +106,25 @@
 /n/by-* https://www.notion.so/rongyi/:splat 302
 
 # Lab @ rongyi.io Links
+### LifeOS related
 /t/* /T/:splat 302
 /T/n/* https://lab.rongyi.io/T/:splat/-/issues/new 302
 /T/s/* https://lab.rongyi.io/search?utf8=%E2%9C%93&snippets=&scope=issues&repository_ref=&group_id=34&search=:splat 302
-/T/new/* https://lab.rongyi.io/T/:splat/-/issues/new 302
 /T/list https://lab.rongyi.io/groups/T/-/issues 302
 /T/new-milestone https://lab.rongyi.io/groups/T/-/milestones/new 302
-/lab/T https://lab.rongyi.io/T 302
-/lab/todo https://lab.rongyi.io/dashboard/todos 302
 /T/board https://lab.rongyi.io/groups/T/-/boards/1 302
 /T/milestones https://lab.rongyi.io/groups/T/-/milestones 302
 /T/:level1/:level2/:id https://lab.rongyi.io/T/:level1/:level2/-/issues/:id 302
 /T/:level1/:level2 https://lab.rongyi.io/T/:level1/:level2/-/issues 302
+
+### General Lab Shortlinks
+/lab/T https://lab.rongyi.io/T 302
+/lab/todo https://lab.rongyi.io/dashboard/todos 302
+
+### LifeOS Log related
+/T/nld https://lab.rongyi.io/T/log/daily/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/T/nlo https://lab.rongyi.io/T/log/ops/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/T/nlw https://lab.rongyi.io/T/log/weekly/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
 
 # Clickup Links
 /cut/* https://app.clickup.com/t/:splat 302
