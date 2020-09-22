@@ -177,6 +177,10 @@
 /ali/bye https://yuque.antfin-inc.com/docs/share/2fab7bc4-768f-4baf-9930-2e1c9406aeb4 302
 /yuque/* https://yuque.alibaba-inc.com/rongyi.ry/rongyi.io/:splat 302
 
+# ByteDance Internal
+/bytedance https://bytedance.feishu.cn/docs/doccnAxgIwOea7Er8ij1RX8NsDh 302
+/byted/home https://bytedance.feishu.cn/docs/doccnAxgIwOea7Er8ij1RX8NsDh 302
+
 # Zhihu
 /zhi/:qid/:aid https://www.zhihu.com/question/:qid/answer/:aid 302
 /zhzl/* https://zhuanlan.zhihu.com/p/:splat 302
