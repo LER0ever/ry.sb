@@ -122,14 +122,14 @@
 /t/:level1/:level2 https://lab.rongyi.io/os/:level1/:level2/-/issues 302
 
 ### General Lab Shortlinks
-/lab/T https://lab.rongyi.io/T 302
+/lab/os https://lab.rongyi.io/os 302
 /lab/todo https://lab.rongyi.io/dashboard/todos 302
 
 ### LifeOS Log related
-/T/nld https://lab.rongyi.io/T/log/daily/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
-/T/nli https://lab.rongyi.io/T/log/ops/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
-/T/nlo https://lab.rongyi.io/T/log/ops/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
-/T/nlw https://lab.rongyi.io/T/log/weekly/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/t/nld https://lab.rongyi.io/os/log/daily/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/t/nli https://lab.rongyi.io/os/log/ops/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/t/nlo https://lab.rongyi.io/os/log/ops/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/t/nlw https://lab.rongyi.io/os/log/weekly/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
 
 # Clickup Links
 /cut/* https://app.clickup.com/t/:splat 302
