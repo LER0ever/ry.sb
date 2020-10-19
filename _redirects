@@ -61,11 +61,17 @@
 /liveplaylist https://music.163.com/playlist?id=2817072153&userid=46123345 302
 /youtube https://www.youtube.com/channel/UCCGyVP_ZZtikdaVUlI-Mrxg 302
 /yt https://www.youtube.com/channel/UCCGyVP_ZZtikdaVUlI-Mrxg 302
-/gpg https://cdn.rongyi.io/contact/pgp_keys.asc 302
 /goodreads https://www.goodreads.com/rongyi 302
 /wb-l https://weibo.com/u/7281807254 302
 /scholar https://scholar.google.com/citations?user=PH8z_3gAAAAJ 302
 /orcid https://orcid.org/0000-0003-2256-7043 302
+
+# PGP Public Keys
+/gpg https://cdn.rongyi.io/contact/pgp-ecc.asc 302
+/pgp https://cdn.rongyi.io/contact/pgp-ecc.asc 302
+/pgp-ecc https://cdn.rongyi.io/contact/pgp-ecc.asc 302
+/pgp-rsa https://cdn.rongyi.io/contact/pgp-rsa.asc 302
+/pgp-all https://cdn.rongyi.io/contact/pgp-all.asc 302
 
 # Blog posts
 /p/190725 https://rongyi.io/2019/07/25/dc-dimming-what-and-how/ 302
