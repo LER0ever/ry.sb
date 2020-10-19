@@ -16,7 +16,7 @@
 # https://docs.netlify.com/routing/redirects
 
 # Personal Websites
-/ https://rongyi.io 302
+/ https://rongyi.ai 302
 /ry.sb https://github.com/LER0ever/ry.sb 302
 /blog https://rongyi.io/blog/ 302
 /code https://code.rongyi.io 302
