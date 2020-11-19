@@ -66,12 +66,13 @@
 /scholar https://scholar.google.com/citations?user=PH8z_3gAAAAJ 302
 /orcid https://orcid.org/0000-0003-2256-7043 302
 
-# PGP Public Keys
+# PGP/SSH Public Keys
 /gpg https://cdn.rongyi.io/contact/pgp-ecc.asc 302
 /pgp https://cdn.rongyi.io/contact/pgp-ecc.asc 302
 /pgp-ecc https://cdn.rongyi.io/contact/pgp-ecc.asc 302
 /pgp-rsa https://cdn.rongyi.io/contact/pgp-rsa.asc 302
 /pgp-all https://cdn.rongyi.io/contact/pgp-all.asc 302
+/pubkeys https://cdn.rongyi.io/dev/ssh/pubkeys 302
 
 # Blog posts / Pages / Presentations / Papers
 /p/190725 https://rongyi.io/2019/07/25/dc-dimming-what-and-how/ 302
