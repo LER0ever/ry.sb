@@ -41,6 +41,7 @@
 
 # Github
 /edit https://github.com/LER0ever/ry.sb/edit/master/_redirects 302
+/urls https://github.com/LER0ever/ry.sb/blob/master/_redirects 302
 
 # Social Networks
 /gh https://github.com/LER0ever 302
