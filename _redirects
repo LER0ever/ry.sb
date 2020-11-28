@@ -127,6 +127,7 @@
 /t/due-soon https://lab.rongyi.io/groups/os/-/issues?not%5Blabel_name%5D%5B%5D=S%3A%3AAsync&not%5Blabel_name%5D%5B%5D=S%3A%3AReady&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93 302
 /t/recent-updates https://lab.rongyi.io/groups/os/-/issues?not%5Blabel_name%5D%5B%5D=S%3A%3AAsync&not%5Blabel_name%5D%5B%5D=S%3A%3AReady&scope=all&sort=updated_desc&state=opened&utf8=%E2%9C%93 302
 /t/list https://lab.rongyi.io/groups/os/-/issues?scope=all&sort=updated_desc&state=opened&utf8=%E2%9C%93 302
+/t/log https://lab.rongyi.io/groups/os/log/-/issues?scope=all&sort=updated_desc&state=opened&utf8=%E2%9C%93 302
 /t/new-milestone https://lab.rongyi.io/groups/os/-/milestones/new 302
 /t/board https://lab.rongyi.io/groups/os/-/boards/1 302
 /t/milestones https://lab.rongyi.io/groups/os/-/milestones 302
