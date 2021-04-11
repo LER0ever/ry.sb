@@ -147,6 +147,9 @@
 ### Gerrit related
 /cr/* https://cr.rongyi.io/:splat 302
 
+### Sourcegraph @ rongyi.io
+/src/* https://src.rongyi.io/:splat 302
+
 # Clickup Links
 /cut/* https://app.clickup.com/t/:splat 302
 
