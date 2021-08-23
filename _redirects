@@ -139,9 +139,9 @@
 /lab/todo https://lab.rongyi.io/dashboard/todos 302
 
 ### LifeOS Log related
-/t/nld https://lab.rongyi.io/os/log/daily/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/t/nld https://lab.rongyi.io/os/log/daily/-/issues/new?issue%5Btitle%5D=D-1xx%3Axx&issuable_template=Daily%20Report 302
 /t/nli https://lab.rongyi.io/os/log/ops/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
-/t/nlo https://lab.rongyi.io/os/log/ops/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
+/t/nlo https://lab.rongyi.io/os/log/ops/-/issues/new?issue%5Btitle%5D=I-1xx%3Axx&issuable_template=Daily 302
 /t/nlw https://lab.rongyi.io/os/log/weekly/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D= 302
 
 ### Gerrit related
