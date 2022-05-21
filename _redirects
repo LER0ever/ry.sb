@@ -121,7 +121,7 @@
 # Lab @ rongyi.io Links
 ### LifeOS related
 /T/* /t/:splat 302
-/tn/* https://lab.rongyi.io/os/:splat/-/issues/new 302
+/tn/* https://lab.rongyi.io/os/:splat/-/issues/new?issuable_template=New%20Task 302
 /t/n/* https://lab.rongyi.io/os/:splat/-/issues/new 302
 /t/s/* https://lab.rongyi.io/search?utf8=%E2%9C%93&snippets=&scope=issues&repository_ref=&group_id=34&search=:splat 302
 /t/due-soon https://lab.rongyi.io/groups/os/-/issues?not%5Blabel_name%5D%5B%5D=S%3A%3AAsync&not%5Blabel_name%5D%5B%5D=S%3A%3AReady&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93 302
