@@ -131,6 +131,7 @@
 /t/log https://lab.rongyi.io/groups/os/log/-/issues?scope=all&sort=updated_desc&state=opened&utf8=%E2%9C%93 302
 /t/new-milestone https://lab.rongyi.io/groups/os/-/milestones/new 302
 /t/board https://lab.rongyi.io/groups/os/-/boards/1 302
+/t/page https://lab.rongyi.io/groups/os/-/wikis/Tasks 302
 /t/milestones https://lab.rongyi.io/groups/os/-/milestones 302
 /t/home https://lab.rongyi.io/groups/os/-/wikis/home 302
 /t/:level1/:level2/:id https://lab.rongyi.io/os/:level1/:level2/-/issues/:id 302
