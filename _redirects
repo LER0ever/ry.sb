@@ -154,6 +154,10 @@
 ### Sourcegraph @ rongyi.io
 /src/* https://src.rongyi.io/:splat 302
 
+### VSCode Server
+/ide/hsk/* https://insiders.vscode.dev/+ms-vscode.remote-server/srv-hsk/home/rongyi/Monorepo/:splat 302
+/ide/studio/* https://insiders.vscode.dev/+ms-vscode.remote-server/mesh-studio/Users/rongyi/Monorepo/:splat 302
+
 # Clickup Links
 /cut/* https://app.clickup.com/t/:splat 302
 
