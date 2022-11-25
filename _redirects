@@ -159,6 +159,9 @@
 /ide/hsk/* https://insiders.vscode.dev/+ms-vscode.remote-server/srv-hsk/home/rongyi/Monorepo/:splat 302
 /ide/studio/* https://insiders.vscode.dev/+ms-vscode.remote-server/mesh-studio/Users/rongyi/Monorepo/:splat 302
 
+# CDN @ rongyi.io
+/bdist/wayback-* https://cdn.rongyi.io/bdist/eng/lisa/wayback-:splat 302
+
 # Clickup Links
 /cut/* https://app.clickup.com/t/:splat 302
 
