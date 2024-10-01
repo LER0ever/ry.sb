@@ -136,6 +136,7 @@
 /t/milestones https://lab.rongyi.io/groups/os/-/milestones 302
 /t/epics https://lab.rongyi.io/groups/os/-/epics?state=opened&page=1&sort=start_date_desc 302
 /t/home https://lab.rongyi.io/groups/os/-/wikis/home 302
+/t/today https://snowfox.rongyi.dev/daily/report 302
 /t/:level1/:level2/:id https://lab.rongyi.io/os/:level1/:level2/-/issues/:id 302
 /t/:level1/:level2 https://lab.rongyi.io/os/:level1/:level2/-/issues 302
 
