@@ -71,7 +71,8 @@
 # PGP/SSH Public Keys
 /gpg https://cdn.rongyi.io/contact/pgp-ecc.asc 302
 /pgp https://cdn.rongyi.io/contact/pgp-ecc.asc 302
-/pgp-ecc https://cdn.rongyi.io/contact/pgp-ecc.asc 302
+/pgp-ecc https://cdn.rongyi.io/contact/pgp-ed.asc 302
+/pgp-ed https://cdn.rongyi.io/contact/pgp-ed.asc 302
 /pgp-rsa https://cdn.rongyi.io/contact/pgp-rsa.asc 302
 /pgp-all https://cdn.rongyi.io/contact/pgp-all.asc 302
 /pubkeys https://cdn.rongyi.io/dev/ssh/pubkeys 302
