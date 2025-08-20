@@ -185,6 +185,14 @@
 # Github / Gitlab Links
 /git-ali/HPGO http://gitlab.alibaba-inc.com/rongyi.ry/HPGO 302
 
+# Life Utilities
+/earthquake https://earthquake.usgs.gov/earthquakes/map/ 302
+/crime-map https://communitycrimemap.com/map 302
+/sjpd-calls https://data.sanjoseca.gov/dataset/police-calls-for-service 302
+/sccpd-calls https://data.sccgov.org/Public-Safety/Crime-Reports/n9u6-aijz/about_data 302
+/sfpd-calls https://data.sfgov.org/Public-Safety/Law-Enforcement-Dispatched-Calls-for-Service-Real-/gnap-fj3t/about_data 302
+/scc-fire https://web.pulsepoint.org/?agencies=43080,43090,43070,43105 302
+
 # Referrals / Affiliates
 /ref https://rongyi.io/donate 302
 /ref/notion https://www.notion.so/?r=d156f5fd8e154d7581e357a59d7e8197 302
